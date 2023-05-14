@@ -1,15 +1,4 @@
 
-.main-para {
-    font-size: 1.5em;
-    line-height: 1.5em;
-}
-
-<head>
-    <title>BYUI</title>
-    <link rel="stylesheet" href="styles/styles.css />"
-</head>
-
-
 body {
     text-align: center;
 }
@@ -30,7 +19,6 @@ a {
 
 
 h1 {
-    color: steelblue;
     text-align: center;
 }
 
@@ -45,16 +33,9 @@ img {
 main p {
     width: 80%;
     margin: 50px auto;
-    padding: 10px;
     text-align: center;
 }
 
-* {
-    border:2px solid blue
-}
-
-nav footer {
-    text-align: center
-    background-color:steelblue;
-    color: white; 
+nav, footer {
+    text-align: center  
 }

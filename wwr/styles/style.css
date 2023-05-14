@@ -1,40 +1,54 @@
-#background {
-    height: 5px;
-}
 
-head {
-    background-color: #fbfcfb;
-    width: 350px;
+#background {
+    height: 725px;
+    color:aqua;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+li {
+    text-align: center;
+}
+body {
+    background-color: beige;
 }
 header {
-    background-color: rgba(20,30,13,.7);
-    
+    background-color: rgba(20,30,13, .7);
+}
+p {
+    text-align: center;
+}
+img class logo {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 10;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:35%;
 }
 nav a:hover {
     background-color: black;
-    color: #d9c2a3;
+    color:#d9c2a3;
+    text-align: center;
 }
 .icon {
-    width: 25px;
+    width: 80px;
 }
 nav a {
     text-align: center;
-    color:#fcfbfb;
+    color: #fcfbfb;
     text-decoration: none;
-}
-footer p {
-    font-size: 1.2em;
 }
 footer p a:hover {
     text-decoration: underline;
 }
-p {
-    margin: 35px;
-}
-
-img {
-    margin: 35px;
-}
-
-
-
