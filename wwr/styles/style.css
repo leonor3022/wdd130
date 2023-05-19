@@ -53,3 +53,7 @@ nav a {
 footer p a:hover {
     text-decoration: underline;
 }
+a {
+    width: 55px;
+}
+
