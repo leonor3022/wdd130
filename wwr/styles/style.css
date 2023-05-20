@@ -21,40 +21,59 @@ body {
 header {
     background-color: rgba(20,30,13, .7);
 }
+nav a:hover {
+    background-color: black;
+    color:#d9c2a3;
+}
+
 p {
     text-align: center;
 }
-img class logo {
-    display: block;
-    margin-left: auto;
-    margin-right:auto;
-    width: 10;
+
+a img {
+    display:block;
+    margin-inline-start: 0;
+    width:3%;
 }
-img {
-    display: block;
+    
+div image {
+    width:1600px;
+    display: center;
+}
+    
+main img {
+    display: inline-block;
     margin-left: auto;
     margin-right: auto;
     width:35%;
 }
-nav a:hover {
-    background-color: black;
-    color:#d9c2a3;
+a {
     text-align: center;
 }
+
 .icon {
-    width: 55px;
-    
+    width: 80px;  
 }
 nav a {
     text-align: center;
     color: #fcfbfb;
     text-decoration: none;
 }
+section {
+    text-align:center;
+}
+footer {
+    background-color: darkolivegreen ;
+}
 footer p a:hover {
     text-decoration: underline;
 }
-img facebook_icon {
-    width: 55px;
+footer p {
+    font-size: 1.2em;
 }
-
+footer img {
+    display: inline;
+    margin-inline-start: 0;
+    width: 2%
+}
 
