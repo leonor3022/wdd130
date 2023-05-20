@@ -25,7 +25,9 @@ nav a:hover {
     background-color: black;
     color:#d9c2a3;
 }
-
+div {
+    background-color: rgb(225, 235, 235);
+}
 p {
     text-align: center;
 }
